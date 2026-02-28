@@ -3,5 +3,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.fontFamily": "'CaskaydiaMono Nerd Font Mono'",
   "editor.fontSize": 18,
-  "editor.lineHeight": 2
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+  },
 }
